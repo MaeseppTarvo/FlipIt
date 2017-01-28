@@ -1,5 +1,5 @@
 # FlipIt
-Swift one line flip animation
+One line flip animation using Swift
 
 
 <br>
